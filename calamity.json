@@ -1,0 +1,13 @@
+{
+    "faction": "helluva boss",
+    "contact": "https://discord.gg/ymQFBYv2",
+    "templates": [
+        {
+            "name": "loona",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1140933304862908446/1141039751399485490/Loona_1_1.png"
+            ],
+            "x": 648,
+            "y": 672
+        }
+}
