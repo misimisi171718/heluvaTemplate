@@ -22,7 +22,7 @@
         {
             "name": "giant_stolas",
             "sources": [
-                https://cdn.discordapp.com/attachments/1141028660254617624/1141099331160645902/1692121069232.png
+                "https://cdn.discordapp.com/attachments/1141028660254617624/1141099331160645902/1692121069232.png"
             ],
             "x": 900,
             "y": 785
@@ -30,7 +30,7 @@
         {
             "name": "giant_loona",
             "sources": [
-                https://cdn.discordapp.com/attachments/1141027313660731423/1141108139232608396/1692131681744.png
+                "https://cdn.discordapp.com/attachments/1141027313660731423/1141108139232608396/1692131681744.png"
             ],
             "x": 860,
             "y": 812
