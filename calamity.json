@@ -42,6 +42,14 @@
             ],
             "x": 855,
             "y": 867
+        },
+        {
+            "name": "belzebub_logo",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1140933304862908446/1141495517336051752/Belzebub_logo.png"
+            ],
+            "x": 920,
+            "y": 860
         }
     ]
 }
